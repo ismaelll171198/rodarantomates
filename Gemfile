@@ -56,3 +56,4 @@ gem "font-awesome-rails"
 gem 'devise', '~> 4.3'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 gem 'activeadmin', github: 'activeadmin'
+gem 'cancancan'
